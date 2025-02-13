@@ -1,0 +1,233 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(43,52,69);
+}
+
+body {
+    margin: 0;
+}
+
+/* HEADER */
+
+header {
+    background-color: rgb(241, 245, 249);
+}
+header h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 0;
+}
+header h1:hover {
+    color: rgb(43,52,69,0.5);
+}
+.letraEspecialTitulo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 4rem;
+}
+
+
+/* NAVBAR */
+
+nav ul {
+    list-style-type: none; 
+    padding: 0 0 10px 0;
+    text-align: center;
+}
+
+nav ul li a  {
+    color: rgba(43,52,69);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+nav ul li a:hover{
+    color: rgb(254,105,106);
+}
+
+.linkNavSeleccionado {
+    color: rgb(254,105,106);
+}
+
+/* ARTICLE */
+
+article {
+    margin: 0 30% auto;
+}
+p {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    quotes: "«" "»";
+}
+
+h3 {
+    font-size: 1.6rem;
+    margin-bottom: 20px;
+}
+
+article a {
+    color: rgb(254,105,106);
+    text-decoration: none;
+}
+
+article a:hover {
+    color: rgb(254,105,106,0.5)
+} 
+
+
+article h2 {
+    font-size: 2rem ;
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+/* INDEX */
+
+.tituloAutor {
+    font-weight: 400;
+    font-size: 0.6rem;
+    text-align: center;
+    margin: 0 0 28px 0; 
+} 
+
+.container{
+    width: 85%;
+    margin: auto;
+}
+
+.imgArtTikTok {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+span.textoEsp {
+    text-decoration-style: dotted;
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight:bold;
+    border-left: 6px solid rgb(254,105,106);
+    margin-bottom: 20px;
+}
+
+blockquote p {
+    margin-left: 16px;
+}
+
+
+.fuenteInformTexto {
+    margin-top: 25px;
+    margin-bottom: 0px;
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+.fuenteInformaImg {
+    margin-top: 0;
+    margin-bottom: 40px;
+    font-size: 0.8rem;
+}
+.fuenteInformaImg a {
+    font-style: normal;
+}
+
+/* ESTADÍSTICAS */
+
+li {
+    margin-bottom: 12px;
+    font-size: 0.9rem;
+}
+
+ul {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul li {
+    list-style-type: disc;
+}
+
+ul li ul {
+    list-style-image: none;
+    list-style-type: none;
+}
+.tituloList {
+    font-size: 1.3rem;
+}
+
+.resumenGeneral{
+    list-style-type: disc;
+}
+
+.subtituloList {
+     list-style-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' fill='currentColor' viewBox='0 0 16 16'%3E%3Cpath d='M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7Zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm-5.784 6A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216ZM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z'/%3E%3C/svg%3E"); 
+}
+
+.iconSubtitulo {
+    width: 14px;
+    margin-right: 6px;;
+}
+
+.presentacion {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* REDES */
+
+dt {
+
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+dd {
+    font-size: 0.9rem;
+    margin: 6px 0 10px 0;
+    line-height: 1.5;
+    
+}
+
+.containerImg {
+    width: 45%;
+    margin: auto;
+
+}
+.imgRetrato {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.pieFoto{
+    margin: 0 0 12px 0; 
+
+}
+
+.linkInformacion {
+    font-size: 0.7rem;
+
+}
+
+
+/* FOOTER */
+
+footer {
+    background-color: rgb(0,0,0);
+    padding: 18px 24px ;
+    margin-top: 58px;
+}
+
+footer ul {
+    padding: 0;
+}
+
+footer ul li {
+    color: rgb(255,255,255);
+    font-size: 0.6rem;
+    margin-bottom: 8px;
+    list-style-type: none; 
+}
