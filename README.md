@@ -1,5 +1,9 @@
 # Redes: Sitio Web de Noticias de Tecnología
 
+## Link
+
+https://redestecnologynews.netlify.app
+
 ## Descripción
 
 Este proyecto consiste en la creación de un sitio web compuesto por tres páginas interconectadas mediante un menú de navegación. Se deben aplicar las mejores prácticas en HTML5 y CSS para garantizar un diseño semántico y estructurado correctamente.
@@ -50,6 +54,7 @@ El sitio web constará de:
 
 **Autor:** Omar Hevia Arbana
 **Asignatura:** HTML Y CSS del Master Universitario de Desarrollo de Aplicaciones y sitios web de la Universidad Oberta de Catalunya
+**Fecha:** Octubre 2023
 
 ---
 
@@ -100,3 +105,4 @@ The website will consist of:
 
 **Author:** Omar Hevia Arbana  
 **Subject:** HTML & CSS - Master's Degree in Web Applications and Sites Development, Open University of Catalonia
+**Date:** Octubre 2023
