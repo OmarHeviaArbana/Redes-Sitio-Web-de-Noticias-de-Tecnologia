@@ -2,8 +2,6 @@
 
 <image style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;" src="/img/miniatura.png" alt="Redes: Sitio Web de Noticias de Tecnología">
 
-
-
 ## Link
 
 https://redestecnologynews.netlify.app
@@ -23,5 +21,4 @@ Este proyecto consiste en la creación de un sitio web compuesto por tres págin
 This project involves creating a website consisting of three interconnected pages via a navigation menu. Best practices in HTML5 and CSS must be applied to ensure a properly structured and semantic design.
 
 **Author:** Omar Hevia Arbana  
-**Subject:** HTML & CSS - Master's Degree in Web Applications and Sites Development, Open University of Catalonia
 **Date:** Octubre 2023
