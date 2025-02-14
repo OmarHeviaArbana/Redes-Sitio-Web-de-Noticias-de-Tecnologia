@@ -1,5 +1,9 @@
 # Redes: Sitio Web de Noticias de Tecnología
 
+<image style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;" src="/img/miniatura.png" alt="Redes: Sitio Web de Noticias de Tecnología">
+
+
+
 ## Link
 
 https://redestecnologynews.netlify.app
